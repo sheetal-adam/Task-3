@@ -1,0 +1,32 @@
+/* styles.css */
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#quoteContainer {
+  margin-top: 20px;
+}
+
+#quoteText {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#nextBtn {
+  border: none;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+#nextBtn:hover {
+  background-color: #555;
+}
